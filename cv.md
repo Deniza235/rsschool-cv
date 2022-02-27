@@ -21,3 +21,38 @@ _I'm a beginner Front-end developer. One of my strong skills is perseverance tow
 * Figma , Photoshop
 
 ***
+
+## Code example
+Favorite movies rating :
+```
+let rating = ['The Green Mile', 'The Shawshank Redemption', 'Schindler`s List', 'Forrest Gump', 'Harry Potter','The Lord of the Rings'];
+
+console.log('Favorite movies rating:');
+for (let i in rating) {
+    console.log(`#${parseInt(i) + 1} movie: ${rating[i]}`);
+}
+```
+***
+## Experience
+My training project :
+> The Lagoona is a site of a hotel that offers a full range of leisure facilities.
+[GitHub Pages](https://deniza235.github.io/Lagoona/)
+
+***
+## Education
+**Lobachevsky State University of Nizhny Novgorod**
+
+Specialist's degree
+- Financial management
+
+**Online Courses:**
+* Skillbox - _Front-end developer profession_
+* Code Basics: HTML, CSS, JS
+* Orion Innovation
+
+***
+## English level
+
+B1 , Intermediate
+
+![test](./assets/img/test_ef.png)
